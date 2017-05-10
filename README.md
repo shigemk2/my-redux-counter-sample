@@ -13,3 +13,7 @@ open http://localhost:3000/
 - マイナスを押すと1マイナス
 - incrementIfOddを押すと奇数の場合は1プラス
 - Increment asyncを押すとだいたい1000ms後に1プラス
+
+## webstormで使うとき
+
+jsxにスイッチするとエラーはあらかた消える。
